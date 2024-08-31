@@ -4,7 +4,6 @@
 .navbar{
     padding-left: 200px;
     padding-right: 200px;
-    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -48,6 +47,15 @@
 .last-letter{
     font-size: 45px;
 }
+.logo{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+}
+.logo:hover {
+    color: #fff; 
+}
 .anchor-link{
     text-decoration: none;
     color: #fff;
@@ -63,11 +71,14 @@
     width: 40%;
     list-style-type: none;
     font-family: "Acme", sans-serif;
+    z-index: 1;
 }
 .navbar ul li{
     cursor: pointer;
     transition: 0.2s;
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 .navbar ul li:hover{
     transform: scale(1.10);
@@ -89,4 +100,7 @@
 .navbar button:hover{
     transform: scale(1.05);
 }
-
+.menu-icon{
+    display: none;
+}
+  

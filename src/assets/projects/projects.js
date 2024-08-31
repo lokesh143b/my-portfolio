@@ -16,6 +16,7 @@ import food_munch from "../projects/food_munch.png"
 import projects from "../projects/my_projects.png"
 import chatbot from "../projects/chatbot.png"
 import weather from "../projects/weather.png"
+import gemini from "../projects/gemini.png"
 /*
         fincity : fincity143.ccbp.tech 
         nxtTrendz  : nxttrendz143.ccbp.tech (username : rahul , password : rahul@2021)
@@ -52,6 +53,13 @@ const Projects_list = [
                 p_desc:"This is weather report app to know the condition of weather",
                 p_img:weather,
                 p_link : "https://weather-reaport-143.netlify.app/"
+        },
+        {
+                p_no:"03",
+                p_name:"Gemini clone",
+                p_desc:"This is gemini AI app to interact with google AI",
+                p_img:gemini,
+                p_link : "https://gemini-clone143.netlify.app/"
         },
         {
                 p_no:"04",

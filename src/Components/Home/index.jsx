@@ -11,7 +11,7 @@ const Home = () => {
         <span>I'm Srirangam Lokeswara Rao </span>  
         fullstack developer
       </h1>  
-      <p>
+      <p> 
         I am a fullstack developer from India, I have hands on experience in multiple launguages like HTML, CSS , JavaScript, Python, SQL, Node Js, Express JS, React Js.
       </p>   
       <div className='hero-action'>

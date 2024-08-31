@@ -1,4 +1,5 @@
 .home-container{
+    width: 100vw;
     padding-top: 20px;
     height: auto;
     display: flex;
@@ -35,7 +36,6 @@
     color: #fff;
     font-weight: 500;
 }
-
 .hero-action{
     display: flex;
     justify-content: center;
@@ -77,4 +77,21 @@
 .hero-resume:hover{
     transform: scale(1.05);
     border: 2px solid #B415FF;
+}
+@media (max-width:768px) {
+    .home-container img{
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    } 
+    .home-container h1{
+        text-align: center;
+        width: 90%;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 70px;
+    }
+    .home-container p{
+        width: 80%;
+    }
 }

@@ -23,12 +23,9 @@ a:hover {
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
   min-height: 100vh;
-  max-height: auto;
-  background-color: #161513;
+  background: #161513;
+  color: #fff;
 }
 
 *{
