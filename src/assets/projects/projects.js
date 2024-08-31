@@ -54,6 +54,13 @@ const Projects_list = [
                 p_link : "https://weather-reaport-143.netlify.app/"
         },
         {
+                p_no:"03",
+                p_name:"Gemini clone",
+                p_desc:"This is gemini AI app to interact with google AI",
+                p_img:gemini,
+                p_link : "https://gemini-clone143.netlify.app/"
+        },
+        {
                 p_no:"04",
                 p_name:"Chat bot",
                 p_desc:"It's a simple chatbot app",
