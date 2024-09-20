@@ -31,7 +31,8 @@ const onClickShowBtn = () => {
           ))
         }
       </ul>
-      <button onClick={onClickShowBtn} >Show more</button>
+      {projects.length === Projects_list.length ? "":<button onClick={onClickShowBtn} >Show more</button>}
+      
     </div>
   )
 }
