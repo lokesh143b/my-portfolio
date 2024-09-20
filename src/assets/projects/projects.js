@@ -17,6 +17,7 @@ import projects from "../projects/my_projects.png"
 import chatbot from "../projects/chatbot.png"
 import weather from "../projects/weather.png"
 import gemini from "../projects/gemini.png"
+import doctors_appointment from "../projects/doctors-appointment.png"
 /*
         fincity : fincity143.ccbp.tech 
         nxtTrendz  : nxttrendz143.ccbp.tech (username : rahul , password : rahul@2021)
@@ -63,24 +64,24 @@ const Projects_list = [
         },
         {
                 p_no:"04",
-                p_name:"Chat bot",
-                p_desc:"It's a simple chatbot app",
-                p_img:chatbot,
-                p_link : "https://funnymsgbot.ccbp.tech/"
-        },
-        {
-                p_no:"05",
-                p_name:"My projects",
-                p_desc:"Some of small frontend projects added here",
-                p_img:projects,
-                p_link : "https://myprojects143.ccbp.tech/"
-        },
-        {
-                p_no:"06",
                 p_name:"Food munch",
                 p_desc:"Fully responsive food apllication",
                 p_img:food_munch,
                 p_link : "https://foodmunch143b.ccbp.tech/"
+        },
+        {
+                p_no:"05",
+                p_name:"Doctors Appointment",
+                p_desc:"This is the website to book an appointment to consult a doctor",
+                p_img:doctors_appointment,
+                p_link : "https://doctors-appointment143.netlify.app/"
+        },
+        {
+                p_no:"06",
+                p_name:"Chat bot",
+                p_desc:"It's a simple chatbot app",
+                p_img:chatbot,
+                p_link : "https://funnymsgbot.ccbp.tech/"
         },
         {
                 p_no:"07",
@@ -173,6 +174,13 @@ const Projects_list = [
                 p_img:fincity,
                 p_link : "https://fincity143.ccbp.tech/"
         },
+        {
+                p_no:"20",
+                p_name:"My projects",
+                p_desc:"Some of small frontend projects added here",
+                p_img:projects,
+                p_link : "https://myprojects143.ccbp.tech/"
+        }
         
 
 ]
