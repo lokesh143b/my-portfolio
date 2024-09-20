@@ -28,7 +28,8 @@ const onClickShowMore = () => {
           ))
         }
       </ul>
-      <button onClick={onClickShowMore}>Show more</button>
+      {Achievements.length === Achievements_Data.length ? "":<button onClick={onClickShowMore}>Show more</button>}
+      
     </div>
   )
 }
