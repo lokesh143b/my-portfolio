@@ -18,6 +18,7 @@ import chatbot from "../projects/chatbot.png"
 import weather from "../projects/weather.png"
 import gemini from "../projects/gemini.png"
 import doctors_appointment from "../projects/doctors-appointment.png"
+import booking from "../projects/booking-app.png"
 /*
         fincity : fincity143.ccbp.tech 
         nxtTrendz  : nxttrendz143.ccbp.tech (username : rahul , password : rahul@2021)
@@ -180,6 +181,13 @@ const Projects_list = [
                 p_desc:"Some of small frontend projects added here",
                 p_img:projects,
                 p_link : "https://myprojects143.ccbp.tech/"
+        },
+        {
+                p_no:"21",
+                p_name:"Hotel Booking",
+                p_desc:"This is used to book a hotel room in ladakh",
+                p_img:booking,
+                p_link : "https://brisphere-booking.netlify.app/"
         }
         
 
