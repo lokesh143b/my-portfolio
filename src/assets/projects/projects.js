@@ -18,6 +18,7 @@ import chatbot from "../projects/chatbot.png"
 import weather from "../projects/weather.png"
 import gemini from "../projects/gemini.png"
 import doctors_appointment from "../projects/doctors-appointment.png"
+import blossoms_restuarent from "../projects/blossoms-restuarent.png"
 import booking from "../projects/booking-app.png"
 /*
         fincity : fincity143.ccbp.tech 
