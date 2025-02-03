@@ -1,5 +1,5 @@
 .home-container{
-    width: 100vw;
+    width: auto;
     padding-top: 20px;
     height: auto;
     display: flex;
@@ -44,6 +44,12 @@
     font-weight: 500;
     margin-bottom: 50px;
     width: 50%;
+}
+@media screen and (max-width:600px) {
+    .hero-action{
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 .hero-connect{
@@ -93,5 +99,14 @@
     }
     .home-container p{
         width: 80%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .home-container h1{
+        font-size: 35px;
+    }
+    .home-container p{
+        font-size: 15px ;
     }
 }

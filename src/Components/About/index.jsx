@@ -69,7 +69,7 @@ const About = () => {
                 <h1>2+</h1>
                 <p>YEARS OF EXPRIENCE</p>
             </div>
-            <hr/>
+            
         </div>
     </div>
   )

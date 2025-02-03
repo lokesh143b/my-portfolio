@@ -1,4 +1,6 @@
 .about-container{
+    height: auto;
+    width: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,6 +9,11 @@
     min-height: 100vh;
     height: auto;
     gap: 20px;
+}
+@media screen and (max-width:768px) {
+    .about-container{
+        padding: 0px 50px;
+    }
 }
 .about-title{
     position: relative;
@@ -107,4 +114,42 @@
 .about-achievement p {
     font-size: 18px;
     font-weight: 500;
+}
+
+@media screen and (max-width:768px) {
+    .about-container h1{
+        font-size: 35px;
+    }
+    .about-container p{
+        font-size: 13px;
+    }
+    .about-sections{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-title{
+        width: 300px;
+    }
+    .about-title img{
+        width: 30%;
+        left: 30%;
+        top: 30%;
+      
+    }
+    
+}
+@media screen and (max-width:600px) {
+    .about-container h1{
+        font-size: 30px;
+    }
+    .about-container h1{
+        font-size: 25px ;
+    }
+    .about-container p{
+        font-size: 12px;
+    }
+    .about-left img{
+        width: 100%;
+        height: auto;
+    }
 }
