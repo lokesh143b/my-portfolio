@@ -83,7 +83,7 @@ const Projects_list = [
                 p_name:"Blossoms Restuarent",
                 p_desc:"This is the website to book food from your table directly",
                 p_img:blossoms_restuarent,
-                p_link : "https://blossoms-restuarent.netlify.app/"
+                p_link : "https://blossoms-restuarent-app.netlify.app/login"
         },
         {
                 p_no:"06",
