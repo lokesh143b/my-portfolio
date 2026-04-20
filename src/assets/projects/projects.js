@@ -20,6 +20,10 @@ import gemini from "../projects/gemini.png"
 import doctors_appointment from "../projects/doctors-appointment.png"
 import blossoms_restuarent from "../projects/blossoms-restuarent.png"
 import booking from "../projects/booking-app.png"
+import Brewhaus from "../projects/Brewhaus.png"
+import HuskyCoffee from "../projects/Husky Coffee.png"
+
+
 /*
         fincity : fincity143.ccbp.tech 
         nxtTrendz  : nxttrendz143.ccbp.tech (username : rahul , password : rahul@2021)
@@ -196,6 +200,20 @@ const Projects_list = [
                 p_desc:"This is used to book a hotel room in ladakh",
                 p_img:booking,
                 p_link : "https://brisphere-booking.netlify.app/"
+        }},
+        {
+                p_no:"22",
+                p_name:"Brewhaus",
+                p_desc:"This is the app for booking coffee and brews",
+                p_img:Brewhaus,
+                p_link : "https://brewhaus-9gal95ug2-lokesh143bs-projects.vercel.app/"
+        }},
+        {
+                p_no:"23",
+                p_name:"Husky Coffee",
+                p_desc:"Its website for coffee shop and cafe",
+                p_img:HuskyCoffee,
+                p_link : "https://husky-coffee.vercel.app/"
         }
         
 
