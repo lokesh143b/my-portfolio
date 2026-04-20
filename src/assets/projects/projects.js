@@ -51,14 +51,14 @@ const Projects_list = [
                 p_no:"22",
                 p_name:"Brewhaus",
                 p_desc:"This is the app for booking coffee and brews",
-                p_img:Brewhaus,
+                p_img:HuskyCoffee,
                 p_link : "https://brewhaus-9gal95ug2-lokesh143bs-projects.vercel.app/"
         },
         {
                 p_no:"23",
                 p_name:"Husky Coffee",
                 p_desc:"Its website for coffee shop and cafe",
-                p_img:HuskyCoffee,
+                p_img:Brewhaus,
                 p_link : "https://husky-coffee.vercel.app/"
         },
         {
