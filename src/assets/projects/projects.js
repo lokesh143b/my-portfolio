@@ -200,14 +200,14 @@ const Projects_list = [
                 p_desc:"This is used to book a hotel room in ladakh",
                 p_img:booking,
                 p_link : "https://brisphere-booking.netlify.app/"
-        }},
+        },
         {
                 p_no:"22",
                 p_name:"Brewhaus",
                 p_desc:"This is the app for booking coffee and brews",
                 p_img:Brewhaus,
                 p_link : "https://brewhaus-9gal95ug2-lokesh143bs-projects.vercel.app/"
-        }},
+        },
         {
                 p_no:"23",
                 p_name:"Husky Coffee",
