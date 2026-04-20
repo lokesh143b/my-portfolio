@@ -48,6 +48,20 @@ import HuskyCoffee from "../projects/Husky Coffee.png"
 
 const Projects_list = [
         {
+                p_no:"22",
+                p_name:"Brewhaus",
+                p_desc:"This is the app for booking coffee and brews",
+                p_img:Brewhaus,
+                p_link : "https://brewhaus-9gal95ug2-lokesh143bs-projects.vercel.app/"
+        },
+        {
+                p_no:"23",
+                p_name:"Husky Coffee",
+                p_desc:"Its website for coffee shop and cafe",
+                p_img:HuskyCoffee,
+                p_link : "https://husky-coffee.vercel.app/"
+        },
+        {
                 p_no:"01",
                 p_name:"Basic website",
                 p_desc:"This is the basic software website",
@@ -89,13 +103,13 @@ const Projects_list = [
                 p_img:blossoms_restuarent,
                 p_link : "https://blossoms-restuarent-app.netlify.app/"
         },
-        {
-                p_no:"06",
-                p_name:"Chat bot",
-                p_desc:"It's a simple chatbot app",
-                p_img:chatbot,
-                p_link : "https://funnymsgbot.ccbp.tech/"
-        },
+        // {
+        //         p_no:"06",
+        //         p_name:"Chat bot",
+        //         p_desc:"It's a simple chatbot app",
+        //         p_img:chatbot,
+        //         p_link : "https://funnymsgbot.ccbp.tech/"
+        // },
         {
                 p_no:"07",
                 p_name:"Todos",
@@ -103,48 +117,48 @@ const Projects_list = [
                 p_img:todos,
                 p_link : "https://todolist1a.ccbp.tech/"
         },
-        {
-                p_no:"08",
-                p_name:"Wekipedia",
-                p_desc:"Wekipedia seach application",
-                p_img:wekipedia,
-                p_link : "https://wiki143.ccbp.tech/"
-        },
-        {
-                p_no:"09",
-                p_name:"Typing",
-                p_desc:"It's used find the typing speed of a person",
-                p_img:typing,
-                p_link : "https://typingspeed143.ccbp.tech/"
-        },
-        {
-                p_no:"10",
-                p_name:"Emoji game",
-                p_desc:"It's a simple emoji game to sharpen our brain",
-                p_img:emoji,
-                p_link : "https://funemojisgame.ccbp.tech/"
-        },
-        {
-                p_no:"11",
-                p_name:"Digital timer",
-                p_desc:"It's a simple stopwatch application",
-                p_img:digi_timer,
-                p_link : "https://digitaltimer143.ccbp.tech/"
-        },
-        {
-                p_no:"12",
-                p_name:"IPL dashboard",
-                p_desc:"It's a simple IPL score dashboard",
-                p_img:ipl,
-                p_link : "https://ipl143.ccbp.tech/"
-        },
-        {
-                p_no:"13",
-                p_name:"Prime video",
-                p_desc:"It's a frontend amazon prime video application",
-                p_img:prime_video,
-                p_link : "https://primevideo143.ccbp.tech/"
-        },
+        // {
+        //         p_no:"08",
+        //         p_name:"Wekipedia",
+        //         p_desc:"Wekipedia seach application",
+        //         p_img:wekipedia,
+        //         p_link : "https://wiki143.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"09",
+        //         p_name:"Typing",
+        //         p_desc:"It's used find the typing speed of a person",
+        //         p_img:typing,
+        //         p_link : "https://typingspeed143.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"10",
+        //         p_name:"Emoji game",
+        //         p_desc:"It's a simple emoji game to sharpen our brain",
+        //         p_img:emoji,
+        //         p_link : "https://funemojisgame.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"11",
+        //         p_name:"Digital timer",
+        //         p_desc:"It's a simple stopwatch application",
+        //         p_img:digi_timer,
+        //         p_link : "https://digitaltimer143.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"12",
+        //         p_name:"IPL dashboard",
+        //         p_desc:"It's a simple IPL score dashboard",
+        //         p_img:ipl,
+        //         p_link : "https://ipl143.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"13",
+        //         p_name:"Prime video",
+        //         p_desc:"It's a frontend amazon prime video application",
+        //         p_img:prime_video,
+        //         p_link : "https://primevideo143.ccbp.tech/"
+        // },
         {
                 p_no:"14",
                 p_name:"Jobby app",
@@ -159,20 +173,20 @@ const Projects_list = [
                 p_img:movies,
                 p_link : "https://movies143b.ccbp.tech/"
         },
-        {
-                p_no:"16",
-                p_name:"Text editor",
-                p_desc:"It's a simple text editing app to styling the text",
-                p_img:text_editor,
-                p_link : "https://texteditor143.ccbp.tech/"
-        },
-        {
-                p_no:"17",
-                p_name:"Simplotel",
-                p_desc:"It's a simple frontend assignment",
-                p_img:simplotel,
-                p_link : "https://simplotel143.ccbp.tech/"
-        },
+        // {
+        //         p_no:"16",
+        //         p_name:"Text editor",
+        //         p_desc:"It's a simple text editing app to styling the text",
+        //         p_img:text_editor,
+        //         p_link : "https://texteditor143.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"17",
+        //         p_name:"Simplotel",
+        //         p_desc:"It's a simple frontend assignment",
+        //         p_img:simplotel,
+        //         p_link : "https://simplotel143.ccbp.tech/"
+        // },
         {
                 p_no:"18",
                 p_name:"Nxttrendz app",
@@ -180,41 +194,28 @@ const Projects_list = [
                 p_img:nxt_trendz,
                 p_link : "https://nxttrendz143.ccbp.tech/"
         },
-        {
-                p_no:"19",
-                p_name:"Fincity",
-                p_desc:"Frontend application of fincity assignment",
-                p_img:fincity,
-                p_link : "https://fincity143.ccbp.tech/"
-        },
-        {
-                p_no:"20",
-                p_name:"My projects",
-                p_desc:"Some of small frontend projects added here",
-                p_img:projects,
-                p_link : "https://myprojects143.ccbp.tech/"
-        },
-        {
-                p_no:"21",
-                p_name:"Hotel Booking",
-                p_desc:"This is used to book a hotel room in ladakh",
-                p_img:booking,
-                p_link : "https://brisphere-booking.netlify.app/"
-        },
-        {
-                p_no:"22",
-                p_name:"Brewhaus",
-                p_desc:"This is the app for booking coffee and brews",
-                p_img:Brewhaus,
-                p_link : "https://brewhaus-9gal95ug2-lokesh143bs-projects.vercel.app/"
-        },
-        {
-                p_no:"23",
-                p_name:"Husky Coffee",
-                p_desc:"Its website for coffee shop and cafe",
-                p_img:HuskyCoffee,
-                p_link : "https://husky-coffee.vercel.app/"
-        }
+        // {
+        //         p_no:"19",
+        //         p_name:"Fincity",
+        //         p_desc:"Frontend application of fincity assignment",
+        //         p_img:fincity,
+        //         p_link : "https://fincity143.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"20",
+        //         p_name:"My projects",
+        //         p_desc:"Some of small frontend projects added here",
+        //         p_img:projects,
+        //         p_link : "https://myprojects143.ccbp.tech/"
+        // },
+        // {
+        //         p_no:"21",
+        //         p_name:"Hotel Booking",
+        //         p_desc:"This is used to book a hotel room in ladakh",
+        //         p_img:booking,
+        //         p_link : "https://brisphere-booking.netlify.app/"
+        // },
+
         
 
 ]
